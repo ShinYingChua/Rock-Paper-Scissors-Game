@@ -7,3 +7,4 @@ A classical hand game versus the computer. The game is over when one player obta
 - CSS
 
 # Demo
+https://shinyingchua.github.io/Rock-Paper-Scissors-Game/
